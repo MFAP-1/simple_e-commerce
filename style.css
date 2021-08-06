@@ -1,0 +1,21 @@
+body {
+    padding: 10px;
+    background-color: lightcoral;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    width: 100px;
+}
+
+#cart {
+    background-color: aqua;
+}
+
+#cart, #items {
+    width: 50vw;
+}
